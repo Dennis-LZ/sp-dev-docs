@@ -85,7 +85,7 @@ Set-PnPListItem -List SitePages –Identity <id> -Values @{"PageLayoutType"="Hom
 
 ## SharePoint "modern" experiences support for on-premises
 
-The SharePoint "modern" experiences are supported in SharPoint 2019 in on-premises. Also as part of the SharePoint 2016 Feature Pack, "modern" experiences will be introduced within the OneDrive for Business experience, and you can take advantage of the SharePoint Framework client-side web parts in the classic page experience.
+The SharePoint "modern" experiences are supported in SharePoint 2019 in on-premises. Also as part of the SharePoint 2016 Feature Pack, "modern" experiences will be introduced within the OneDrive for Business experience, and you can take advantage of the SharePoint Framework client-side web parts in the classic page experience.
 
 
 ## See also
